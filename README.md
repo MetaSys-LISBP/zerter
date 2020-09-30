@@ -2,7 +2,7 @@
 
 ## What is Zerter?
 **Zerter is a scientific software dedicated to the processing of (bio)chemical experiments by NMR**.
-In J-RES spectra, **zerter** zeroes the trapezia left and right of a diagonal corresponding to a particular proton, along a 45° diagonal.
+In J-RES spectra, **zerter** zeroes the trapezia left and right of a particular signal along a 45° diagonal.
 
 It is one of the routine tools that we use at the [MetaSys team](http://www.lisbp.fr/en/research/integrated-metabolism-and-dynamics-of-metabolic-systems.html) and [MetaToul platform](https://www6.toulouse.inra.fr/metatoul_eng/) 
 for quantitative analysis of 31P phosphometabolites.
